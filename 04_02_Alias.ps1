@@ -1,4 +1,3 @@
-#this is walk through demo file - not a script"
 Clear-Host
 
 Get-Command -CommandType Cmdlet
@@ -25,7 +24,6 @@ Get-Process
 ps win*
 
 #here's something fun
-#you'll find this in the list as well
 gcm gcm
 
 gcm -noun computer
