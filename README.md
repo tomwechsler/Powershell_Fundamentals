@@ -1,2 +1,2 @@
 # Powershell Fundamentals
-Everything about PowerShell Fundamentals!
+Everything about PowerShell Core Fundamentals!
