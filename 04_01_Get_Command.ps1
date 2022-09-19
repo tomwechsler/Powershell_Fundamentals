@@ -13,7 +13,6 @@ Get-Command -noun *process*
 #combine
 Get-Command -noun *share* -verb Re*
 
-
 Get-Command
 
 #notice all the different types of commands
