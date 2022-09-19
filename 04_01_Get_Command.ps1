@@ -17,5 +17,6 @@ Get-Command
 
 #notice all the different types of commands
 Get-Command *service*
+
 #I'll refine the command
 Get-Command *service
